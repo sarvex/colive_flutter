@@ -46,7 +46,7 @@ dependencies:
   google_maps_flutter: ^2.0.0
   image_picker: ^0.8.0
   intro_slider: ^4.0.0
-  launch_review: ^2.0.0
+  launch_review: ^3.0.0
   location: ^4.0.0
   permission_handler: ^10.0.0
   share: ^2.0.0
