@@ -48,7 +48,7 @@ dependencies:
   intro_slider: ^4.0.0
   launch_review: ^2.0.0
   location: ^4.0.0
-  permission_handler: ^3.2.2
+  permission_handler: ^10.0.0
   share: ^2.0.0
   shimmer: ^1.0.0
   shared_preferences: ^2.0.0
