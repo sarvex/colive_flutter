@@ -43,7 +43,7 @@ dependencies:
   flutter_svg: ^2.0.0
   flutter_swiper: ^1.1.6
   geolocator: ^9.0.0
-  google_maps_flutter: ^0.5.21
+  google_maps_flutter: ^2.0.0
   image_picker: ^0.8.0
   intro_slider: ^2.2.8
   launch_review: ^2.0.0
