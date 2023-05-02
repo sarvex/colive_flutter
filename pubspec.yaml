@@ -55,7 +55,7 @@ dependencies:
   sliding_up_panel: ^0.3.5
   splashscreen: ^ 1.2.0
   sticky_headers: ^0.1.8
-  uni_links: ^0.2.0
+  uni_links: ^0.5.0
 
 dev_dependencies:
   flutter_test:
