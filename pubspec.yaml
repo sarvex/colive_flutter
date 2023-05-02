@@ -47,7 +47,7 @@ dependencies:
   image_picker: ^0.8.0
   intro_slider: ^2.2.8
   launch_review: ^2.0.0
-  location: ^2.3.5
+  location: ^4.0.0
   permission_handler: ^3.2.2
   share: ^0.6.2+1
   shimmer: ^1.0.0
