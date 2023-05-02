@@ -50,7 +50,7 @@ dependencies:
   location: ^4.0.0
   permission_handler: ^10.0.0
   share: ^2.0.0
-  shimmer: ^1.0.0
+  shimmer: ^2.0.0
   shared_preferences: ^2.0.0
   sliding_up_panel: ^0.3.5
   splashscreen: ^ 1.2.0
