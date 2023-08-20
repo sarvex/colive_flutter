@@ -44,7 +44,7 @@ dependencies:
   flutter_swiper: ^1.1.6
   geolocator: ^10.0.0
   google_maps_flutter: ^2.0.0
-  image_picker: ^0.8.0
+  image_picker: ^1.0.0
   intro_slider: ^4.0.0
   launch_review: ^3.0.0
   location: ^5.0.0
